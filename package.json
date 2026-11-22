@@ -1,0 +1,9 @@
+{
+  "name": "yomari",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": { "dev": "vite", "build": "tsc --noEmit && vite build" },
+  "dependencies": { "react": "^19.2.0", "react-dom": "^19.2.0", "dexie": "^4.2.0", "dexie-react-hooks": "^4.2.0", "lucide-react": "^0.468.0" },
+  "devDependencies": { "vite": "^7.3.0", "vite-plugin-pwa": "^1.2.0", "typescript": "^5.9.0", "@types/react": "^19.2.0", "@types/react-dom": "^19.2.0" }
+}
